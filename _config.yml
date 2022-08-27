@@ -1,6 +1,23 @@
-title: Minimal theme
+title: Rhea Thomas
 logo: /assets/img/me.jpeg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/rheathomas23">LinkedIn</a> |
+  <a href="https://github.com/Rhea23thomas">GitHub</a>
+  
+  <br>   
+  I'm working as a ML Engineer at Zoho. Mainly work in the field of NLP
+  
+  A dynamic, enthusiastic and committed individual aspiring to utilize my skills for challenging and motivational working environment. 
+  A key team leader with strong leadership qualities and an ability to work under pressure.
+  
+  Have relevant 3 plus years experience in this field.
+  
+  <br>
+  </p>
+
+
 theme: jekyll-theme-minimal
+
